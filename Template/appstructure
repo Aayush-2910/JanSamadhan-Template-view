@@ -1,0 +1,4 @@
+src/
+ ├── App.js
+ ├── JanSamadhanUI.jsx   ✅ (your component with Tailwind)
+ └── index.js
